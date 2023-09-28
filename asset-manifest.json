@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/project-5-frontend/static/css/main.7acaea2f.css",
+    "main.css": "/project-5-frontend/static/css/main.30eb8156.css",
     "main.js": "/project-5-frontend/static/js/main.07d3183d.js",
+    "static/media/Inter-BoldItalic.woff": "/project-5-frontend/static/media/Inter-BoldItalic.8e42c2e6ff41814dc527.woff",
+    "static/media/Inter-SemiBoldItalic.woff": "/project-5-frontend/static/media/Inter-SemiBoldItalic.55c0d462970e5e9f7f67.woff",
+    "static/media/Inter-Bold.woff": "/project-5-frontend/static/media/Inter-Bold.dadac8e81c47d286d6ad.woff",
+    "static/media/Inter-SemiBold.woff": "/project-5-frontend/static/media/Inter-SemiBold.f03691b7ee77696f1e4f.woff",
+    "static/media/Inter-Medium.woff": "/project-5-frontend/static/media/Inter-Medium.b2c850c46fe8e1a16aae.woff",
+    "static/media/Inter-Regular.woff": "/project-5-frontend/static/media/Inter-Regular.7a79766b61a3397711b5.woff",
+    "static/media/Inter-BoldItalic.woff2": "/project-5-frontend/static/media/Inter-BoldItalic.f56cb3bf3014834e9d37.woff2",
+    "static/media/Inter-SemiBoldItalic.woff2": "/project-5-frontend/static/media/Inter-SemiBoldItalic.cee64082d223367545dc.woff2",
+    "static/media/Inter-Bold.woff2": "/project-5-frontend/static/media/Inter-Bold.fa6cd3c4b1147f44bcbb.woff2",
+    "static/media/Inter-SemiBold.woff2": "/project-5-frontend/static/media/Inter-SemiBold.5d6fbb3c21a66071ae2e.woff2",
+    "static/media/Inter-Medium.woff2": "/project-5-frontend/static/media/Inter-Medium.383cbf61dfa86718115f.woff2",
+    "static/media/Inter-Regular.woff2": "/project-5-frontend/static/media/Inter-Regular.d87bbf5c6f44d7d06eb2.woff2",
+    "static/media/DMSans-9ptItalic.woff": "/project-5-frontend/static/media/DMSans-9ptItalic.1e474edfc36347721b3f.woff",
+    "static/media/DMSans-9ptRegular.woff": "/project-5-frontend/static/media/DMSans-9ptRegular.b3eba6094ab128796881.woff",
+    "static/media/DMSans-9ptItalic.woff2": "/project-5-frontend/static/media/DMSans-9ptItalic.1215aaee4cc6c7a2b391.woff2",
+    "static/media/DMSans-9ptRegular.woff2": "/project-5-frontend/static/media/DMSans-9ptRegular.4b6d24070752db98c9ca.woff2",
     "index.html": "/project-5-frontend/index.html",
-    "main.7acaea2f.css.map": "/project-5-frontend/static/css/main.7acaea2f.css.map",
+    "main.30eb8156.css.map": "/project-5-frontend/static/css/main.30eb8156.css.map",
     "main.07d3183d.js.map": "/project-5-frontend/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
+    "static/css/main.30eb8156.css",
     "static/js/main.07d3183d.js"
   ]
 }
