@@ -1,1 +1,0 @@
-(self.webpackChunkproject_5_frontend=self.webpackChunkproject_5_frontend||[]).push([[756],{756:function(){}}]);
