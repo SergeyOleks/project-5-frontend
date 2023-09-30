@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/461.b050fc19.chunk.js","mappings":"iJAQA,UANqB,WACjB,OACI,yBAAK,YAEZ,C","sources":["pages/CalendarPage.js"],"sourcesContent":["\n\nconst CalendarPage = () => {\n    return (\n        <div>Calendar</div>\n    )\n}\n\nexport default CalendarPage;"],"names":[],"sourceRoot":""}
