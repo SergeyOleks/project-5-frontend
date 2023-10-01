@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkproject_5_frontend=self.webpackChunkproject_5_frontend||[]).push([[158],{5681:function(n,e,r){var t=r(184);e.Z=function(){return(0,t.jsx)("header",{children:"header"})}},4158:function(n,e,r){r.r(e);var t=r(5681),c=r(184);e.default=function(){return(0,c.jsxs)("div",{children:["Account",(0,c.jsx)(t.Z,{})]})}}}]);
-//# sourceMappingURL=158.e45d9847.chunk.js.map
