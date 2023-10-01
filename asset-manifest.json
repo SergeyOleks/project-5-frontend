@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/project-5-frontend/static/css/main.30eb8156.css",
-    "main.js": "/project-5-frontend/static/js/main.bb67d640.js",
+    "main.js": "/project-5-frontend/static/js/main.8497bd7f.js",
     "static/css/940.f1d14701.chunk.css": "/project-5-frontend/static/css/940.f1d14701.chunk.css",
     "static/js/940.2fac5c18.chunk.js": "/project-5-frontend/static/js/940.2fac5c18.chunk.js",
     "static/css/268.ac4c1831.chunk.css": "/project-5-frontend/static/css/268.ac4c1831.chunk.css",
     "static/js/268.b6bece9a.chunk.js": "/project-5-frontend/static/js/268.b6bece9a.chunk.js",
     "static/js/879.50b04681.chunk.js": "/project-5-frontend/static/js/879.50b04681.chunk.js",
-    "static/css/158.6d95ce32.chunk.css": "/project-5-frontend/static/css/158.6d95ce32.chunk.css",
+    "static/css/158.38c613e8.chunk.css": "/project-5-frontend/static/css/158.38c613e8.chunk.css",
     "static/js/158.8a4724b8.chunk.js": "/project-5-frontend/static/js/158.8a4724b8.chunk.js",
-    "static/css/696.6d95ce32.chunk.css": "/project-5-frontend/static/css/696.6d95ce32.chunk.css",
-    "static/js/696.65fc8041.chunk.js": "/project-5-frontend/static/js/696.65fc8041.chunk.js",
-    "static/css/623.6d95ce32.chunk.css": "/project-5-frontend/static/css/623.6d95ce32.chunk.css",
+    "static/css/446.f7af864e.chunk.css": "/project-5-frontend/static/css/446.f7af864e.chunk.css",
+    "static/js/446.7e4feb16.chunk.js": "/project-5-frontend/static/js/446.7e4feb16.chunk.js",
+    "static/css/623.38c613e8.chunk.css": "/project-5-frontend/static/css/623.38c613e8.chunk.css",
     "static/js/623.e5ca6d6a.chunk.js": "/project-5-frontend/static/js/623.e5ca6d6a.chunk.js",
     "static/css/849.ae39c367.chunk.css": "/project-5-frontend/static/css/849.ae39c367.chunk.css",
     "static/js/849.5d319c18.chunk.js": "/project-5-frontend/static/js/849.5d319c18.chunk.js",
@@ -64,17 +64,17 @@
     "static/media/right.svg": "/project-5-frontend/static/media/right.8838aed33abf8d6bd5adbd62df0816f2.svg",
     "static/media/error.svg": "/project-5-frontend/static/media/error.07979e0ad4a4bfabe779c92185218e6f.svg",
     "main.30eb8156.css.map": "/project-5-frontend/static/css/main.30eb8156.css.map",
-    "main.bb67d640.js.map": "/project-5-frontend/static/js/main.bb67d640.js.map",
+    "main.8497bd7f.js.map": "/project-5-frontend/static/js/main.8497bd7f.js.map",
     "940.f1d14701.chunk.css.map": "/project-5-frontend/static/css/940.f1d14701.chunk.css.map",
     "940.2fac5c18.chunk.js.map": "/project-5-frontend/static/js/940.2fac5c18.chunk.js.map",
     "268.ac4c1831.chunk.css.map": "/project-5-frontend/static/css/268.ac4c1831.chunk.css.map",
     "268.b6bece9a.chunk.js.map": "/project-5-frontend/static/js/268.b6bece9a.chunk.js.map",
     "879.50b04681.chunk.js.map": "/project-5-frontend/static/js/879.50b04681.chunk.js.map",
-    "158.6d95ce32.chunk.css.map": "/project-5-frontend/static/css/158.6d95ce32.chunk.css.map",
+    "158.38c613e8.chunk.css.map": "/project-5-frontend/static/css/158.38c613e8.chunk.css.map",
     "158.8a4724b8.chunk.js.map": "/project-5-frontend/static/js/158.8a4724b8.chunk.js.map",
-    "696.6d95ce32.chunk.css.map": "/project-5-frontend/static/css/696.6d95ce32.chunk.css.map",
-    "696.65fc8041.chunk.js.map": "/project-5-frontend/static/js/696.65fc8041.chunk.js.map",
-    "623.6d95ce32.chunk.css.map": "/project-5-frontend/static/css/623.6d95ce32.chunk.css.map",
+    "446.f7af864e.chunk.css.map": "/project-5-frontend/static/css/446.f7af864e.chunk.css.map",
+    "446.7e4feb16.chunk.js.map": "/project-5-frontend/static/js/446.7e4feb16.chunk.js.map",
+    "623.38c613e8.chunk.css.map": "/project-5-frontend/static/css/623.38c613e8.chunk.css.map",
     "623.e5ca6d6a.chunk.js.map": "/project-5-frontend/static/js/623.e5ca6d6a.chunk.js.map",
     "849.ae39c367.chunk.css.map": "/project-5-frontend/static/css/849.ae39c367.chunk.css.map",
     "849.5d319c18.chunk.js.map": "/project-5-frontend/static/js/849.5d319c18.chunk.js.map",
@@ -83,6 +83,6 @@
   },
   "entrypoints": [
     "static/css/main.30eb8156.css",
-    "static/js/main.bb67d640.js"
+    "static/js/main.8497bd7f.js"
   ]
 }
