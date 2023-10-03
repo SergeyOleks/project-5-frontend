@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkproject_5_frontend=self.webpackChunkproject_5_frontend||[]).push([[623],{8623:function(t,s,e){e.r(s);var c=e(9439),n=e(7689),a=e(9434),i=e(5122),r=e(184);s.default=function(){var t=(0,n.bx)(),s=(0,c.Z)(t,1)[0];return console.log(s),(0,a.I0)()((0,i.l)("Statistics")),(0,r.jsx)("div",{className:"statisticsPage",children:"Statistics"})}}}]);
-//# sourceMappingURL=623.74e84cd4.chunk.js.map
