@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkproject_5_frontend=self.webpackChunkproject_5_frontend||[]).push([[971],{5971:function(e,n,t){t.r(n);var r=t(1421),c=t(2791),f=t(7689),u=t(6476),o=t(184);n.default=function(){var e=(0,f.UO)().token,n=(0,f.s0)();return(0,c.useEffect)((function(){(0,u.mC)(e),n("/calendar")}),[n,e]),(0,o.jsx)(r.Z,{})}}}]);
-//# sourceMappingURL=971.1f88c950.chunk.js.map
